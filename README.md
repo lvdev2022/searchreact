@@ -1,4 +1,4 @@
-# Simple Search by Filter DEMO
+# Simple search by filter demo
 
 # Getting Started with Create React App
 
