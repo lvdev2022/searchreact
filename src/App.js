@@ -5,10 +5,6 @@ import { Users } from './users';
 function App() {
   const [query, setQuery] = useState('');
 
-  //TODO: Add a state variable to hold the filtered users
-
-  //console.log(query);
-  console.log(Users.filter(user => user.first_name.toLowerCase().includes("sol")));
   return (
     <div className="app">
       <input
